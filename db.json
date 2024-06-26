@@ -4,8 +4,20 @@
       "id": 1,
       "title": "BT01",
       "description": "San Francisco World Trade Center on new Server/IOT/Client ",
-      "startTrip": [2021, 2, 13, 0, 0],
-      "endTrip": [2021, 2, 15, 16, 56],
+      "startTrip": [
+        2021,
+        2,
+        13,
+        0,
+        0
+      ],
+      "endTrip": [
+        2021,
+        2,
+        15,
+        16,
+        56
+      ],
       "meetings": [
         {
           "id": 1,
@@ -23,8 +35,20 @@
       "id": 2,
       "title": "BT02",
       "description": "Santa Clara Halley on new Server/IOT/Client",
-      "startTrip": [2021, 6, 23, 9, 0],
-      "endTrip": [2021, 6, 27, 16, 56],
+      "startTrip": [
+        2021,
+        6,
+        23,
+        9,
+        0
+      ],
+      "endTrip": [
+        2021,
+        6,
+        27,
+        16,
+        56
+      ],
       "meetings": [
         {
           "id": 3,
@@ -42,8 +66,20 @@
       "id": 3,
       "title": "BT03",
       "description": "San Cose City Halley on Docker/IOT/Client",
-      "startTrip": [2021, 12, 13, 9, 0],
-      "endTrip": [2021, 12, 15, 16, 56],
+      "startTrip": [
+        2021,
+        12,
+        13,
+        9,
+        0
+      ],
+      "endTrip": [
+        2021,
+        12,
+        15,
+        16,
+        56
+      ],
       "meetings": [
         {
           "id": 5,
@@ -51,6 +87,33 @@
           "description": "Key Note on One Conference"
         }
       ]
+    },
+    {
+      "title": "fgsd",
+      "description": "fgsfd",
+      "startTrip": "fgds",
+      "endTrip": "gfds",
+      "meetings": [
+        {
+          "title": "fgsd",
+          "description": "gfd"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "title": "test",
+      "description": "this is a test ",
+      "startTrip": "2024-06-26T15:32",
+      "endTrip": "2024-06-29T15:32",
+      "id": 5
+    },
+    {
+      "title": "test",
+      "description": "this is a test ",
+      "startTrip": "2024-06-26T15:32",
+      "endTrip": "2024-06-29T15:32",
+      "id": 6
     }
   ]
 }
