@@ -1,6 +1,3 @@
-```markdown
-# react-state-building-script
-
 ## Quick Start
 
 To get started with the **react-state-building-script** project, follow these steps:
