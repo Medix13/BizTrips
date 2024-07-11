@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Link, useParams } from 'react-router-dom';
+import { useParams } from 'react-router-dom';
 import { fetchTrip, deleteMeeting, addMeeting } from '../services/tripService';
 import { TrashIcon } from '@heroicons/react/outline';
 
