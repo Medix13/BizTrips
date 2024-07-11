@@ -7,8 +7,8 @@ To get started with the **react-state-building-script** project, follow these st
 First, clone the repository and navigate into the project directory:
 
 ```bash
-git clone https://github.com/your-username/react-state-building-script.git
-cd react-state-building-script
+git clone https://github.com/Medix13/BizTrips.git
+cd BizTrips
 ```
 
 Next, install the dependencies:
